@@ -1,0 +1,12 @@
+Model,Accuracy,Precision,Recall,F1 Score
+XGBoost,0.9964,0.9953,0.9972,0.9962
+Gradient Boosting,0.9951,0.9932,0.9965,0.9948
+Decision Tree,0.9949,0.9953,0.9939,0.9946
+Passive Aggressive,0.9937,0.9925,0.9941,0.9933
+SVM,0.9932,0.9922,0.9934,0.9928
+AdaBoost,0.9927,0.9876,0.9969,0.9923
+Random Forest,0.9889,0.9857,0.9908,0.9882
+Logistic Regression,0.9849,0.9815,0.9866,0.984
+Extra Trees,0.9811,0.9726,0.9877,0.9801
+Naive Bayes,0.9375,0.933,0.9349,0.9339
+KNN,0.6422,0.9486,0.2565,0.4038

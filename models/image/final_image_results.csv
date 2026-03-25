@@ -1,0 +1,6 @@
+Model,Accuracy
+VGG16 (Frozen),0.59
+VGG16 (Fine Tuned),0.58
+Basic CNN,0.54
+MobileNet,0.54
+ResNet50,0.52
