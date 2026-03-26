@@ -9,9 +9,8 @@ from sklearn.metrics import accuracy_score, classification_report
 print("Loading dataset...")
 
 # Load datasets
-df_true = pd.read_csv("True.csv")
-df_fake = pd.read_csv("Fake.csv")
-
+df_true = pd.read_csv("data/text/True.csv")
+df_fake = pd.read_csv("data/text/Fake.csv")
 df_true["label"] = 1
 df_fake["label"] = 0
 
